@@ -12,4 +12,4 @@ Monitoring to coronavirus 🦠
 
 ## Inspired by
 
-Tracking the Coronavirus with JavaScript and Google Maps 👉 https://www.youtube.com/watch?v=UlfacaW8634
+* Tracking the Coronavirus with JavaScript and Google Maps 👉 https://www.youtube.com/watch?v=UlfacaW8634
