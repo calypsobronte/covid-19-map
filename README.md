@@ -6,9 +6,9 @@ Monitoring to coronavirus 🦠
 
 ## Tools
 
-API 👉 https://ainize.ai/laeyoung/wuhan-coronavirus-api
-Google Maps Javascript API
-Style Maps 👉 https://snazzymaps.com/
+* API 👉 https://ainize.ai/laeyoung/wuhan-coronavirus-api
+* Google Maps Javascript API 👉 https://developers.google.com/maps/documentation/javascript/tutorial?hl=es
+* Style Maps 👉 https://snazzymaps.com/
 
 ## Inspired by
 
