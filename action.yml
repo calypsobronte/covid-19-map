@@ -1,0 +1,17 @@
+name: "Hello Actions"
+description: "covid 19 map"
+author: "calypsobronte@calypsobronte.me"
+
+inputs:
+  MY_NAME:
+    description: "Who to greet"
+    required: true
+    default: "World"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "mic"
+  color: "purple"
